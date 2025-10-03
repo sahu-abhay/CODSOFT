@@ -6,6 +6,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sahu-abhay/repo.git
+git pull origin main // when some extra code on github to take on local machine then we can push
 git push -u origin main
 
 …or push an existing repository from the command line
